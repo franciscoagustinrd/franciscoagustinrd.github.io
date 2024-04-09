@@ -16,11 +16,16 @@ body {
 h2.titulo-info{
     margin-top: 5%;
     color: white ;
-    opacity: .7;
+    opacity: .9;
 }
 h2.subtitulos-educacion{
-    color:white;
-    opacity: .7;
+    color: #ffffff;
+    opacity: .9;
+}
+h3{
+    color: #ffffff;
+    font-style: italic;
+    opacity: .5;
 }
 
 h1.titulo-educacion,.links{
