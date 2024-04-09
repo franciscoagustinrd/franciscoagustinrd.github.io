@@ -73,6 +73,12 @@ footer{
     width: 500px;
     padding: 30px;
 }
+.link-offset-3{
+  color: white;
+}
+.link-offset-3:hover{
+  color:#03D1B2;
+}
 @media only screen and (max-width: 767px) {
     .animacion-principal {
         display: none !important;
